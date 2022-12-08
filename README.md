@@ -11,7 +11,7 @@
 # Husky - running
 
 - roslaunch husky_viz view_robot.launch
-----
+--
 - roslaunch husky_gazebo husky_empty_world.launch
 
 - roslaunch husky_gazebo husky_playpen.launch
