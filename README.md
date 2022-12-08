@@ -2,6 +2,8 @@
 
 # Husky - Install
 
+- sudo apt-get install ros-melodic-husky-navigation ros-melodic-husky-gazebo ros-melodic-husky-viz
+
 - sudo apt-get install ros-melodic-husky-desktop
 
 - sudo apt-get install ros-melodic-husky-simulator
