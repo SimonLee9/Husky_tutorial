@@ -1,5 +1,7 @@
 # Husky_tutorial
 
+- https://github.com/husky/husky_robot
+
 # Husky - Install
 
 - sudo apt-get install ros-melodic-husky-navigation ros-melodic-husky-gazebo ros-melodic-husky-viz
