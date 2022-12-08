@@ -20,6 +20,8 @@
 
 - roslaunch husky_gazebo husky_empty_world.launch world_name:=worlds/willowgarage.world
 
+---
+
 - roslaunch husky_navigation move_base_mapless_demo.launch
 
 ---
